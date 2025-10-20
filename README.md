@@ -1,1 +1,10 @@
-# hg-2-alfa
+## TEAM 2
+
+<hdr>
+
+| NOMBRE | UBICACION | ALIAS |
+| ------ | ------ | ------ |
+|  JOSE FROMETA | CARACAS | BRAVO |
+|  ROGER MONTERO | CARACAS | ALFA |
+|  OSCARY RADA | CARACAS | DELTA |
+|  CARLA SE ME OLVIDO SU APELLIDO | CARACAS | CHARLIE |
